@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "気まぐれロマンティック",
-  "base_artist": "Ikimonogakari",
-  "createdAt": "2026-01-05T09:01:04.095065Z",
+  "base_artist": "いきものがかり",
+  "createdAt": "2026-01-13T10:58:46.847406Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,78 +83,6 @@
       "artist": "いきものがかり",
       "has_synced": false,
       "path": "select/pl_01_気まぐれロマンティック_いきものがかり.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "気まぐれロマンティック",
-      "artist": "いきものがかり",
-      "has_synced": false,
-      "path": "select/pl_02_気まぐれロマンティック_いきものがかり.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "気まぐれロマンティック",
-      "artist": "いきものがかり",
-      "has_synced": false,
-      "path": "select/pl_03_気まぐれロマンティック_いきものがかり.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "気まぐれロマンティック",
-      "artist": "いきものがかり",
-      "has_synced": false,
-      "path": "select/pl_04_気まぐれロマンティック_いきものがかり.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "気まぐれロマンティック",
-      "artist": "いきものがかり",
-      "has_synced": false,
-      "path": "select/pl_05_気まぐれロマンティック_いきものがかり.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "気まぐれロマンティック",
-      "artist": "いきものがかり",
-      "has_synced": false,
-      "path": "select/pl_06_気まぐれロマンティック_いきものがかり.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "気まぐれロマンティック",
-      "artist": "いきものがかり",
-      "has_synced": false,
-      "path": "select/pl_07_気まぐれロマンティック_いきものがかり.txt"
-    },
-    {
-      "id": "petitlyrics_8",
-      "source": "petitlyrics",
-      "title": "気まぐれロマンティック",
-      "artist": "いきものがかり",
-      "has_synced": false,
-      "path": "select/pl_08_気まぐれロマンティック_いきものがかり.txt"
-    },
-    {
-      "id": "petitlyrics_9",
-      "source": "petitlyrics",
-      "title": "気まぐれロマンティック",
-      "artist": "いきものがかり",
-      "has_synced": false,
-      "path": "select/pl_09_気まぐれロマンティック_いきものがかり.txt"
-    },
-    {
-      "id": "petitlyrics_10",
-      "source": "petitlyrics",
-      "title": "気まぐれロマンティック",
-      "artist": "いきものがかり",
-      "has_synced": false,
-      "path": "select/pl_10_気まぐれロマンティック_いきものがかり.txt"
     }
   ]
 }
